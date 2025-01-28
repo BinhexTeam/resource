@@ -1,1 +1,0 @@
-odoo-addon-hr_planning_oca @ git+https://github.com/OCA/resource.git@refs/pull/4/head#subdirectory=setup/hr_planning_oca
